@@ -1,0 +1,7 @@
+db: lyciosu.sqlite3
+storage:
+  hostname: localhost:9000
+  username: example
+  password: example
+  secure: false
+  bucket: example
